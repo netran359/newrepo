@@ -5,4 +5,10 @@ this is 4th line updated in ec2
 =======
 this us 3rd line
 >>>>>>> 8e7c0f8c91bf3c80b7cbda9df5a647a3bddf65f8
+<<<<<<< HEAD
 hi line updated in linux on 1feb2023
+=======
+hello wednesday from local machine(git bash)
+>>>>>>> 31b337a8b3d2b91fd58a34a088cd304cecb48a48
+
+sparkilinn in linux
